@@ -1,0 +1,42 @@
+.head{
+    display: grid;
+    margin: auto;
+}
+.title{
+    text-align: center;
+    color: white;
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+.box{
+    margin: auto;
+    display: block;
+    padding: 35px;
+    color: white;
+}
+.size{
+    text-align: center;
+    margin: 20px;
+    color: white;
+}
+.button{
+    padding: auto;
+    width: 85px;
+    margin: auto;
+    background-color:orange;
+    font-weight: 900;
+    text-align: center;
+    margin: 30px;
+    }
+    body{
+        
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: black;
+    }
+    .top{
+        display: flex;
+        gap: 10px;
+        margin: auto;
+    }
